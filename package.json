@@ -1,0 +1,19 @@
+{
+  "name": "minicurso-nodejs-impacta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "chai": "^3.5.0",
+    "hapi": "^15.1.1",
+    "hapi-test-request": "0.0.4",
+    "joi": "^9.1.1",
+    "mocha": "^3.1.2"
+  }
+}
